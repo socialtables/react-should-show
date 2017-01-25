@@ -1,6 +1,6 @@
 {
   "name": "react-should-show",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "a higher order component to control rendering of children",
   "main": "dist/index.js",
   "scripts": {
